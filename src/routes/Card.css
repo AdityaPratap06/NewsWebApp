@@ -1,0 +1,14 @@
+#mainContent{
+    width: 60%;
+    height: 20%;
+    border:2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    /* background-color: burlywood; */
+    margin: 20px 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
